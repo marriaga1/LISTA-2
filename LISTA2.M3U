@@ -3,11 +3,8 @@
 #EXTINF:-1 ,caracol HD
 https://ul.cdn946.net:8443/hls/y4tmrmd.m3u8?s=6z_XvtzzEF76_qwboMzy4w&e=1603740493
 
-
 #EXTINF:-1 ,FOX HD
 https://ul.cdn946.net:8443/hls/esoncv2554uj4x.m3u8?s=ITf8UYQGV6zXmWCRaIJ6Qw&e=1603741175
-
-
 
 #EXTINF:-1 ,Discovery Home & Health
 https://u86715.cdn884.net:8443/hls/tl3ntsm8.m3u8?s=--exue-1z_1XoA5w5-i2XA&e=1603746028
@@ -23,4 +20,8 @@ https://ul.cdn946.net:8443/hls/lyeydm5d8at8i.m3u8?s=x53Kv9C1gMBwMVh8BiZyxg&e=160
 
 #EXTINF:-1 ,NICK
 https://ul.cdn946.net:8443/hls/br29owbumtyttjr.m3u8?s=IuCIlH_mbixN1yH0rfo4vg&e=1603747727
+
+#EXTINF:-1 ,RCN
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZn8fW96lk9sqe82egeRZ6w)/dm/3/x7vyv0z/s/live-1.m3u8
+
 
