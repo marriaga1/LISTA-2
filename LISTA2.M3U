@@ -10,13 +10,17 @@ https://ul.cdn946.net:8443/hls/esoncv2554uj4x.m3u8?s=ITf8UYQGV6zXmWCRaIJ6Qw&e=16
 
 
 #EXTINF:-1 ,Discovery Home & Health
-https://edge-live11-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/dash/DiscoveryHomeHealthHD-video=379968.track_id=10011-5509563536292.mp4
+https://u86715.cdn884.net:8443/hls/tl3ntsm8.m3u8?s=--exue-1z_1XoA5w5-i2XA&e=1603746028
 
 #EXTINF:-1 ,HISTORY HD
-https://edge-live12-sl.cvattv.com.ar/live/live/HistoryHD/SA_Live_dash_enc_2A/dash/HistoryHD-video=2100000.track_id=10009-5509571950402.mp4
+https://ul.cdn946.net:8443/hls/sl7lltju7plx.m3u8?s=dQxY3wu3E7NAJ-fIKBPvdQ&e=1603745738
 
 #EXTINF:-1 ,NatGeo
-https://edge-live12-sl.cvattv.com.ar/live/live/HistoryHD/SA_Live_dash_enc_2A/dash/HistoryHD-video=2100000.track_id=10009-5509571950402.mp4
+https://ul.cdn946.net:8443/hls/nrlo1xajr4zbot.m3u8?s=ejVWoMILl0RHj0IgGTeqUg&e=1603747231
 
 #EXTINF:-1 ,Disney Junior
-https://edge-live12-hr.cvattv.com.ar/live/live/DisneyJr/SA_Live_dash_enc_2A/dash/DisneyJr-audio_AACL_eng_144800_51=144800.track_id=20001-8815340060221.mp4
+https://ul.cdn946.net:8443/hls/lyeydm5d8at8i.m3u8?s=x53Kv9C1gMBwMVh8BiZyxg&e=1603747554
+
+#EXTINF:-1 ,NICK
+https://ul.cdn946.net:8443/hls/br29owbumtyttjr.m3u8?s=IuCIlH_mbixN1yH0rfo4vg&e=1603747727
+
